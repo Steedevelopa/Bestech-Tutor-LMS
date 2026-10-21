@@ -23,6 +23,7 @@ require_once __DIR__ . '/includes/helpers.php';
 require_once __DIR__ . '/includes/access.php';
 require_once __DIR__ . '/includes/video-download.php';
 require_once __DIR__ . '/includes/resources.php';
+require_once __DIR__ . '/includes/menu.php';
 
 add_action(
 	'wp_enqueue_scripts',
