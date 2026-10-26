@@ -1,0 +1,30 @@
+.bestech-video-download {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	gap: 8px 16px;
+	margin: 16px 0;
+}
+
+.bestech-hint,
+.bestech-file-meta {
+	color: #6b7280;
+	font-size: 0.875em;
+}
+
+.bestech-resources-course {
+	margin-bottom: 32px;
+}
+
+.bestech-resources-course h4 {
+	margin: 16px 0 4px;
+}
+
+.bestech-files {
+	margin: 0 0 8px;
+	padding-left: 20px;
+}
+
+.bestech-files li {
+	margin: 4px 0;
+}
